@@ -8,4 +8,4 @@ Requires ids library from IDS website, download IDS SDK as instructed by website
 
 For others use: requires pyAPT library and IDS SDK. change directories and paths.
 
-Last modified: completed project
+Last modified: completed project.
